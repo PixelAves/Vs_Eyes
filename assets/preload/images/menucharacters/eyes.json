@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Eyes",
+	"position": [
+		105,
+		70
+	],
+	"scale": 0.7,
+	"idle_anim": "Eyedle",
+	"confirm_anim": "Eyes Hey!"
+}

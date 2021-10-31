@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EYESOFTHEUNIVERSE.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EotU Down0000" x="0" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0001" x="0" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0002" x="1981" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0003" x="1981" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0004" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0005" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0006" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0007" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0008" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0009" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0010" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Down0011" x="3962" y="0" width="1981" height="876"/>
+	<SubTexture name="EotU Idle0000" x="5943" y="0" width="1981" height="929"/>
+	<SubTexture name="EotU Idle0001" x="5943" y="0" width="1981" height="929"/>
+	<SubTexture name="EotU Idle0002" x="0" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0003" x="0" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0004" x="1981" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0005" x="1981" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0006" x="3962" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0007" x="3962" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0008" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0009" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0010" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0011" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0012" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0013" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0014" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0015" x="5943" y="929" width="1981" height="925" frameX="0" frameY="-4" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0016" x="0" y="1854" width="1981" height="916" frameX="0" frameY="-13" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0017" x="0" y="1854" width="1981" height="916" frameX="0" frameY="-13" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0018" x="1981" y="1854" width="1981" height="914" frameX="0" frameY="-15" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Idle0019" x="1981" y="1854" width="1981" height="914" frameX="0" frameY="-15" frameWidth="1981" frameHeight="929"/>
+	<SubTexture name="EotU Left0000" x="3962" y="1854" width="1981" height="879" frameX="0" frameY="-16" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0001" x="3962" y="1854" width="1981" height="879" frameX="0" frameY="-16" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0002" x="5943" y="1854" width="1981" height="895"/>
+	<SubTexture name="EotU Left0003" x="5943" y="1854" width="1981" height="895"/>
+	<SubTexture name="EotU Left0004" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0005" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0006" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0007" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0008" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0009" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0010" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Left0011" x="0" y="2770" width="1981" height="891" frameX="0" frameY="-4" frameWidth="1981" frameHeight="895"/>
+	<SubTexture name="EotU Right0000" x="1981" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0001" x="1981" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0002" x="3962" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0003" x="3962" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0004" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0005" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0006" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0007" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0008" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0009" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0010" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Right0011" x="5943" y="2770" width="1981" height="876"/>
+	<SubTexture name="EotU Up0000" x="0" y="3661" width="1981" height="1024" frameX="0" frameY="-7" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0001" x="0" y="3661" width="1981" height="1024" frameX="0" frameY="-7" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0002" x="1981" y="3661" width="1981" height="1031"/>
+	<SubTexture name="EotU Up0003" x="1981" y="3661" width="1981" height="1031"/>
+	<SubTexture name="EotU Up0004" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0005" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0006" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0007" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0008" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0009" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0010" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+	<SubTexture name="EotU Up0011" x="3962" y="3661" width="1981" height="1030" frameX="0" frameY="-1" frameWidth="1981" frameHeight="1031"/>
+</TextureAtlas>

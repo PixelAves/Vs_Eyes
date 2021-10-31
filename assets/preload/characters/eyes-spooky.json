@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				714,
+				680
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EotU Idle"
+		},
+		{
+			"offsets": [
+				714,
+				735
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EotU Left"
+		},
+		{
+			"offsets": [
+				714,
+				606
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EotU Down"
+		},
+		{
+			"offsets": [
+				714,
+				823
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EotU Up"
+		},
+		{
+			"offsets": [
+				714,
+				754
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EotU Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EYESSPOOKY",
+	"position": [
+		590,
+		530
+	],
+	"healthicon": "eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		231,
+		215
+	],
+	"camera_position": [
+		-1230,
+		-570
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

@@ -1,0 +1,39 @@
+{
+	"storyName": "Spooky Month Gets Spookier",
+	"hideFreeplay": false,
+	"weekBackground": "spooky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"eyes",
+		""
+	],
+	"songs": [
+		[
+			"omniscient",
+			"eyes",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"spookysights",
+			"eyes",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

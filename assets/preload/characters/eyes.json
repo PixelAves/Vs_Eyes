@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				714,
+				680
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EotU Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				714,
+				633
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EotU Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				714,
+				606
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EotU Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				714,
+				823
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EotU Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				714,
+				606
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EotU Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EYESOFTHEUNIVERSE",
+	"position": [
+		590,
+		530
+	],
+	"healthicon": "eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		231,
+		215
+	],
+	"camera_position": [
+		-1230,
+		-570
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

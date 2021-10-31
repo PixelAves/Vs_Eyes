@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_eyes.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eyedle0000" x="0" y="0" width="430" height="558" frameX="0" frameY="0" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0001" x="0" y="0" width="430" height="558" frameX="0" frameY="0" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0002" x="430" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0003" x="430" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0004" x="858" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0005" x="858" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0006" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0007" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0008" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0009" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0010" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0011" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0012" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0013" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0014" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0015" x="1286" y="0" width="428" height="556" frameX="-3" frameY="-2" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0016" x="0" y="558" width="429" height="549" frameX="-4" frameY="-9" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0017" x="0" y="558" width="429" height="549" frameX="-4" frameY="-9" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0018" x="429" y="558" width="430" height="548" frameX="-4" frameY="-10" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyedle0019" x="429" y="558" width="430" height="548" frameX="-4" frameY="-10" frameWidth="434" frameHeight="558"/>
+	<SubTexture name="Eyes Hey!0000" x="859" y="558" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0001" x="859" y="558" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0002" x="1287" y="558" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0003" x="1287" y="558" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0004" x="0" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0005" x="0" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0006" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0007" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0008" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0009" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0010" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0011" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0012" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0013" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0014" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0015" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0016" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0017" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0018" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0019" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0020" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0021" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0022" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0023" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0024" x="428" y="1114" width="428" height="556"/>
+	<SubTexture name="Eyes Hey!0025" x="428" y="1114" width="428" height="556"/>
+</TextureAtlas>
